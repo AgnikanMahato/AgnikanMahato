@@ -15,14 +15,15 @@ My journey in tech revolves around pushing the boundaries of Artificial Intellig
 - Machine Learning: Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face
 - Prompt Engineering: LLM fine-tuning, Context optimization, Prompt design patterns
 - Data Science: Statistical Analysis, Visualization, Predictive Modeling, A/B Testing
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- - Data Visualization: Tableau, Power BI
 - Databases & APIs: SQL, MySQL, ChromaDB, Groq API
 - Programming: Python, R, SQL, Jupyter Notebooks
 - Tools & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib
 - Big Data: Apache Spark, Hadoop
 - Cloud Platforms: AWS, Google Cloud Platform
 - Version Control: Git, GitHub
-- Data Visualization: Tableau, Power BI
+
 I’m always on the lookout for new challenges, collaborations, and opportunities to grow in the field of AI and data science. Let’s connect and build something awesome together!
 
 # 🌟 What I Do:
