@@ -5,7 +5,8 @@
 
 Hey there! I’m Agnikan Mahato, an AI enthusiast, Prompt Engineer, Data Science and Data Analyst explorer with a deep love for turning complex data into actionable insights.
 
-My journey in tech revolves around pushing the boundaries of Artificial Intelligence, Data Science and Data Analytics. Whether it’s training state-of-the-art machine learning models, crafting intelligent algorithms, or diving into massive datasets, I’m always up for a challenge.
+My journey in tech revolves around pushing the boundaries of Artificial Intelligence, Data Science and Data Analytics. Whether it’s training state-of-the-art machine learning models, crafting intelligent algorithms, or diving into massive datasets, 
+I’m always up for a challenge.
 
 
 
@@ -16,7 +17,7 @@ My journey in tech revolves around pushing the boundaries of Artificial Intellig
 - Prompt Engineering: LLM fine-tuning, Context optimization, Prompt design patterns
 - Data Science: Statistical Analysis, Visualization, Predictive Modeling, A/B Testing
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- - Data Visualization: Tableau, Power BI
+- Data Visualization: Tableau, Power BI
 - Databases & APIs: SQL, MySQL, ChromaDB, Groq API
 - Programming: Python, R, SQL, Jupyter Notebooks
 - Tools & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib
