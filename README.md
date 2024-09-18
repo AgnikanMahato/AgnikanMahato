@@ -1,5 +1,34 @@
-# 💫 About Me:
-<br># 👋 Hello, I'm Agnikan Mahato<br><br>## 🚀 AI Engineer | 🤖 Prompt Engineer | 📊 Data Science | 📈 Data Analyst<br><br>Hey there! I'm Agnikan Mahato, an AI enthusiast, Prompt Engineer, Data Science and Data Analyst explorer with a deep love for turning complex data into actionable insights. <br><br>My journey in tech revolves around pushing the boundaries of Artificial Intelligence, Data Science and Data Analytics. Whether it's training state-of-the-art machine learning models, crafting intelligent algorithms, or diving into massive datasets, I'm always up for a challenge.<br><br><br><br>### 🛠 Skills, Expertise & Toolkits:<br><br>- **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing<br>- **Machine Learning:** Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face<br>- **Prompt Engineering:** LLM fine-tuning, Context optimization, Prompt design patterns<br>- **Data Science:** Statistical Analysis, Visualization, Predictive Modeling, A/B Testing<br>- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI<br>- **Databases & APIs:** SQL, MySQL, ChromaDB, Groq API<br>- **Programming:** Python, R, SQL, Jupyter Notebooks<br>- **Tools & Frameworks:** TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib<br>- **Big Data:** Apache Spark, Hadoop<br>- **Cloud Platforms:** AWS, Google Cloud Platform<br>- **Version Control:** Git, GitHub<br>- **Data Visualization:** Tableau, Power BI<br>I'm always on the lookout for new challenges, collaborations, and opportunities to grow in the field of AI and data science. Let’s connect and build something awesome together!<br><br># 🌟 What I Do:<br>Transform data into powerful insights, building predictive models that fuel innovation.<br>Craft AI-powered solutions using cutting-edge tools like Hugging Face Transformers, RAG, Groq API, and Deep Learning frameworks.<br>Analyze data trends and drive data-driven decisions for impactful business solutions.<br>
+
+# 👋 Hello, I’m Agnikan Mahato
+
+## 🚀 AI Engineer | 🤖 Prompt Engineer | 📊 Data Science | 📈 Data Analyst
+
+Hey there! I’m Agnikan Mahato, an AI enthusiast, Prompt Engineer, Data Science and Data Analyst explorer with a deep love for turning complex data into actionable insights.
+
+My journey in tech revolves around pushing the boundaries of Artificial Intelligence, Data Science and Data Analytics. Whether it’s training state-of-the-art machine learning models, crafting intelligent algorithms, or diving into massive datasets, I’m always up for a challenge.
+
+
+
+### 🛠 Skills, Expertise & Toolkits:
+
+- Artificial Intelligence: Machine Learning, Deep Learning, Natural Language Processing
+- Machine Learning: Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face
+- Prompt Engineering: LLM fine-tuning, Context optimization, Prompt design patterns
+- Data Science: Statistical Analysis, Visualization, Predictive Modeling, A/B Testing
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- Databases & APIs: SQL, MySQL, ChromaDB, Groq API
+- Programming: Python, R, SQL, Jupyter Notebooks
+- Tools & Frameworks: TensorFlow, PyTorch, scikit-learn, pandas, NumPy, Matplotlib
+- Big Data: Apache Spark, Hadoop
+- Cloud Platforms: AWS, Google Cloud Platform
+- Version Control: Git, GitHub
+- Data Visualization: Tableau, Power BI
+I’m always on the lookout for new challenges, collaborations, and opportunities to grow in the field of AI and data science. Let’s connect and build something awesome together!
+
+# 🌟 What I Do:
+Transform data into powerful insights, building predictive models that fuel innovation.
+Craft AI-powered solutions using cutting-edge tools like Hugging Face Transformers, RAG, Groq API, and Deep Learning frameworks.
+Analyze data trends and drive data-driven decisions for impactful business solutions.
 
 
 # 💻 Tech Stack:
