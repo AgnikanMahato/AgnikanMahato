@@ -1,6 +1,6 @@
 # About Me: 👋
 ## Hey there! I'm Agnikan Mahato, an AI enthusiast, Prompt Engineer, Data Science explorer, and Data Analyst with a deep love for turning complex data into actionable insights.
-## My journey in tech revolves around pushing the boundaries of artificial intelligence and data analytics. Whether it’s training state-of-the-art machine learning models, crafting intelligent algorithms, or diving into massive datasets, I’m always up for a challenge.
+## My journey in tech revolves around pushing the boundaries of Artificial Intelligence, Data Science and Data Analytics. Whether it’s training state-of-the-art machine learning models, crafting intelligent algorithms, or diving into massive datasets, I’m always up for a challenge.
 
 # 🌟 What I Do:
 Transform data into powerful insights, building predictive models that fuel innovation.
